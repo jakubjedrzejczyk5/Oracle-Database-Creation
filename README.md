@@ -38,7 +38,6 @@ W tym projekcie zajmujemy się instalacją i konfiguracją Oracle 21c XE na syst
 ### 9. Przydzielenie listenerów i aliasów kontenerom
 - Przydzieliliśmy listenery i aliasy do odpowiednich kontenerów.
 - Dokonaliśmy zmian dla aliasów w pliku `tsnames`.
-- Zatrzymaliśmy i ponownie uruchomiliśmy listenery.
 
 ### 10. Tworzenie i testowanie połączeń w SQL Developerze
 - Utworzyliśmy i przetestowaliśmy połączenia w SQL Developerze dla każdego użytkownika i kontenera.
@@ -56,7 +55,7 @@ W tym projekcie zajmujemy się instalacją i konfiguracją Oracle 21c XE na syst
 - Przetestowaliśmy uprawnienia dla wspólnych użytkowników na różnych tabelach w bazie danych.
 
 ### 13. Odłączenie kontenera i podłączenie go ponownie
-- Wyłączyliśmy kontener, odłączyliśmy go, a następnie podłączyliśmy ponownie po wykonaniu odpowiednich operacji.
+- Wyłączyliśmy kontener, odłączyliśmy go, a następnie podłączyliśmy ponownie.
 
 ### 14. Symulacja usunięcia danych oraz ich przywrócenie
 - Przeprowadziliśmy symulację usunięcia danych oraz ich przywrócenia przy użyciu narzędzia RMAN.
